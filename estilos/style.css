@@ -41,6 +41,7 @@ section#login {
 }
 
 #imagem {
+    display: block;
     background-image: url(../img/karim-elgamil-gVb_xcGkNdQ-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -48,5 +49,6 @@ section#login {
 }
 
 div#formulario {
-    
+    display: block;
+    padding: 10px;
 }
